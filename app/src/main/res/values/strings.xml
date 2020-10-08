@@ -1,3 +1,35 @@
 <resources>
     <string name="app_name">TugasKuisDataBinding</string>
+    <string-array name="Status">
+        <item>Belum Menikah</item>
+        <item>Menikah</item>
+        <item>Biaragwan/Biarawati </item>
+    </string-array>
+
+    <string-array name="Agama">
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Hindu</item>
+        <item>Budha</item>
+        <item>Katolik</item>
+        <item>Lain-lain</item>
+    </string-array>
+
+    <string-array name="Tingkat_Pendidikan">
+        <item>Tidak lulus SD</item>
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA</item>
+        <item>Diiploma</item>
+        <item>Sarjana Muda</item>
+        <item>Sarjana</item>
+        <item>Magister</item>
+        <item>Doktor</item>
+    </string-array>
+
+    <string-array name="Prodi">
+        <item>Tidak lulus SD</item>
+        <item>Desain Produk Mekatronika</item>
+        <item>Instrumentasi Medis</item>
+    </string-array>
 </resources>
